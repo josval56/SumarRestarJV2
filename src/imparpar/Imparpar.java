@@ -16,8 +16,8 @@ public class Imparpar {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Formulario ventana = new Formulario();
-        ventana.setVisible(true);
+        //Formulario ventana = new Formulario();
+        //ventana.setVisible(true);
         Sumar_Restar ventana2 = new Sumar_Restar();
         ventana2.setVisible(true);
     }
